@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/book-my-show-website/static/css/main.6ca72d60.css",
+    "main.js": "/book-my-show-website/static/js/main.d6c1c66e.js",
+    "static/js/787.833be13e.chunk.js": "/book-my-show-website/static/js/787.833be13e.chunk.js",
+    "static/media/ticket.jpg": "/book-my-show-website/static/media/ticket.9db04fb7d13b739a570f.jpg",
+    "static/media/caro2.avif": "/book-my-show-website/static/media/caro2.d1a274f3f5c82569a56e.avif",
+    "static/media/cust.png": "/book-my-show-website/static/media/cust.0de351c8d0d7dc1ad444.png",
+    "static/media/caro3.avif": "/book-my-show-website/static/media/caro3.5685a3b24bd65b8d9e69.avif",
+    "static/media/caro1.avif": "/book-my-show-website/static/media/caro1.21b12a3cb8a9154b4fb7.avif",
+    "static/media/caro.avif": "/book-my-show-website/static/media/caro.c6e860d9bc9d743e1d3b.avif",
+    "static/media/newcar2.png": "/book-my-show-website/static/media/newcar2.daaed5d450fdde5fafbb.png",
+    "static/media/img.avif": "/book-my-show-website/static/media/img.933926d9b58612f7ffa0.avif",
+    "static/media/newscooter.png": "/book-my-show-website/static/media/newscooter.be5e12b0ae8df3a4b322.png",
+    "static/media/cycle.png": "/book-my-show-website/static/media/cycle.2ddc5c511278ac63e859.png",
+    "static/media/newauto.png": "/book-my-show-website/static/media/newauto.5b386c1c664753a0ceda.png",
+    "static/media/newcar.png": "/book-my-show-website/static/media/newcar.77906818b997888137bb.png",
+    "static/media/img2.avif": "/book-my-show-website/static/media/img2.949b2213c0f85ee5ece9.avif",
+    "static/media/slick.svg": "/book-my-show-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/book-my-show-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/book-my-show-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/book-my-show-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/book-my-show-website/index.html",
+    "main.6ca72d60.css.map": "/book-my-show-website/static/css/main.6ca72d60.css.map",
+    "main.d6c1c66e.js.map": "/book-my-show-website/static/js/main.d6c1c66e.js.map",
+    "787.833be13e.chunk.js.map": "/book-my-show-website/static/js/787.833be13e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca72d60.css",
+    "static/js/main.d6c1c66e.js"
+  ]
+}
