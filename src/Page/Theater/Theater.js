@@ -396,12 +396,12 @@ theaterLoop2[i]=theaterLoop1[i].showTime;
           >
            {theaterLoop2[index].map((theList,theindex)=>{
             return(          
-              <Grid item xs={2} key={theindex} >
+              <Grid item xs={2} key={theindex}  >
             <Item onClick={()=>{
               parseInt(theList)>timeWithMin? handleOpen():handleClose()
               dispatch(setTheater(value.theatername))
-               dispatch(setShowTime(value.showTime[theindex]))
-            }} style={{ cursor: "pointer" }}>
+               dispatch(setShowTime(value.showTime[theindex])) 
+            }} style={{ cursor: "pointer" ,opacity:parseInt(theList)>timeWithMin?'1':'0.2'}}>
               <p>{theList<12?(parseInt(theList).toFixed(2)+"AM"):((theList-12).toFixed(2)+"PM")}</p>  
               <p>{value.screen}</p>            
             </Item>
